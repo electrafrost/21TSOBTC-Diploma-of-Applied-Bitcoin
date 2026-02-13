@@ -1,11 +1,12 @@
-TSOBTC001  [Git Basics and Decentralised Networks](https://github.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/TSOBTC001%20Unit%20Of%20Competency.pdf)
+TSOBTC001- (Intro + Skill) Git Basics and Decentralised Networks
+            IPFS web5 avatar exercise (learning about decentralised networks without money)
 TSOBTC002- (Knowledge) The History Of Money/History of Bitcoin - Satoshi Nakamoto
            (Assignment) - Integrate Bitcoin into a current business or build a new business integrating Bitcoin
-TSOBTC003- (SKill) asymmetric encryption https://wallet.bitamp.com/
+TSOBTC003- (Skill) asymmetric encryption https://wallet.bitamp.com/
            (Knowledge) UTXOs https://armantheparman.com/utxo/
            (Knowledge) Bitcoin addresses
 TSOBTC004- (Skill+Knowledge) private keys - storage/security - seed phrases
-            Build an air gapped laptop https://twitter.com/402PaymentReq/status/1613526835052134400?t=2xVaswBXogHyWsWl7Rd4LQ&s=03
+            Build an air gapped laptop
 TSOBTC005- (Skill+Knowledge) blockchain analysis and making transaction
 TSOBTC006- (Knowledge) Bitcoin NOT crypto discussion 
 TSOBTC007- (Skill+Knowledge) Proof of Work - Sha265 & Mining https://armantheparman.com/mining/ (apollo - group activity)
